@@ -1,1 +1,1 @@
-./sound | sox -traw -r13192 -b8 -esigned-integer - out.wav
+./sound | sox -traw -r13192 -b8 -esigned-integer - -tcoreaudio
