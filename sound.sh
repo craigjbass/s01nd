@@ -1,1 +1,1 @@
-./sound | sox -traw -r13192 -b8 -esigned-integer - -tcoreaudio
+./sound | sox -traw -r8192 -b8 -eunsigned-integer - -tcoreaudio
